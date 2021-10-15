@@ -6,4 +6,4 @@ To build run `docker build . -t sourcefinding:v1` in directory.
 
 or if you have [singularity](https://singularity.hpcng.org) installed
 
-singularity pull docker://jonahdw/sourcefinding
+`singularity pull docker://jonahdw/sourcefinding`
