@@ -1,4 +1,5 @@
 astropy
 shapely
+numpyencoder
 git+https://github.com/astropy/regions.git
 python-casacore
